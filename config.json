@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"精准获客",
+    "subTitle":"eexdata.com-海量数据提供方，各类数据祝您实现精准获客，基于中国移动、中国联通、中国电信三大运营商的庞大的用户池和强大的用户数据系统，通过建立数据模型，对相应的平台和标签进行用户数据分析和用户数据挖掘",
+    "avatarUrl":"https://eexdata.com/favicon.ico",
+    "GMEEK_VERSION":"last",
+    "primerCSS":"<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Primer/21.1.1/primer.css'>"
 }
